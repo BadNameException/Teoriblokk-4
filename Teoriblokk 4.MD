@@ -6,15 +6,21 @@ In this document we will first outline how most open source projects are structu
 **Introduction**  
 The topic of motivation is a difficult one to describe concretely. People are motivated by distinctly different rewards. While some people refuse to do a job without payment in the form of money, a different person might do the same job for the enjoyment of it, while yet another might do it just for the challenge.
 
-Before we delve into the reasons why people are motivated to commit their time to open source projects we will first look at how most open source projects are structured. Just like in commercial closed-source projects there is a clear hierarchy within an open source project. A project usually starts out with a group of people with an idea for a project. These are known as the *"core developers"* [3]. Figure 1 describes a traditional hierarchy very well. At the core we have the starting developers, and as the project grows, so does the hierarchy by adding new roles.
+Before we take a look the reasons why people are motivated to commit their time to open source projects we will first look at how most open source projects are structured.
 
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/9e13b0df8c772d05019d54c453a51942151938ca/3-Figure1-1.png)
+**Communities**   
+Like every type of project, be it software, hardware, or anything really, a place to gather all contributions is essential. Be it a lab for hardware, or a garage for cars. In the case of software it is almost always hosted on some kind of web platform. You also need some kind of way to document what has been done so that it can be used later on, either for proof/leverage, or as learning material for later projects. In the case of software this is present in the for of "versioning systems" [4]. These systems track changes in the form of: who did them, what was done and when it was done.
+
+ Just like in commercial closed-source projects there is a clear hierarchy within an open source project. A project usually starts out with a group of people with an idea for a project. These are known as the *"core developers"* [3]. Figure 1 describes a traditional hierarchy very well. At the core we have the starting developers, and as the project grows, so does the hierarchy by adding new roles.
+
+![Figure 1 ](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/9e13b0df8c772d05019d54c453a51942151938ca/3-Figure1-1.png)
 
 *Figure 1*
 
-
+The next role we see added is the role of the "Maintainers". Their roles are to maintain certain parts of the system [3], usually a piece of software they have been developing through all or most of its lifetime [3]. Maintainers usually have full
 
 **Sources**
 * [1] https://pdfs.semanticscholar.org/98a6/c566a7e28a48facb664c8689607a52c57a5d.pdf
 * [2] https://poseidon01.ssrn.com/delivery.php?ID=525111031127091070095092104098091124024042028006019024112092090106011101100062121039107127028116101098024089008118069058086006104073087082008027119077000073065061067083072121077095009025122075069066111067094076086002065113099107126023015110126&EXT=pdf
 * [3] http://users.ece.utexas.edu/~perry/education/382v-s08/papers/ducheneaut.pdf
+* [4] https://en.wikipedia.org/wiki/Git
