@@ -18,13 +18,23 @@ Since GitHub [6] has become the *"standard"* location for hosting open source pr
 
 ![Figure 1 ](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/9e13b0df8c772d05019d54c453a51942151938ca/3-Figure1-1.png)
 
-*Figure 1*
+*Figure 1*    
 
+**Hierarchy**   
 The next role we see added is the role of the "Maintainers". Their roles are, as the name suggests, to maintain parts of the system [3]. The part they maintain is usually a piece of software they have been developing through large degrees of their lifetime [3]. Maintainers usually have rights to contribute via the versioning system without going through the core developers.
 
 The next role is that of the patcher. The job of a patcher is to fix bugs in the system [3]. Bugs are really anything that does something it is not supposed to do, example a link that is supposed to redirect to The University of Agder, but in reality redirects to The University of Nebraska Omaha [8]. The next role of bug reporter is heavily tied in with the patcher. The bug reporter is the one responsible for finding and reporting bugs. This role is one of the two entry points into the project. If we look at the project *"Django"* [9], which is a web framework written in python, we can see that there is an ability to create a *"new pull request"*. This means that we can suggest a change to the project, without any prior affiliation. It is though wise to learn more about the project and make sure that you create the request so that it follows the guidelines for the project.
 
-Last but certainly not least we have the role of the documenters. Their role is to make sure the documentation is as available as possible, that it is gramatically correct, and that it is always updated [10]. 
+Last but certainly not least we have the role of the documenters. Their role is to make sure the documentation is as available as possible, that it is gramatically correct, and that it is always updated [10].
+
+A very good example of this is the Golang project on GitHub as can be seen in Figure 2.
+
+![GoLang Github](https://i.imgur.com/PlJwhfp.png)
+
+*Figure 2*
+
+Here they have done a good job of structuring the project so that it looks inviting, but still has all of the relevant information available immediately. They also have a file called *CONTRIBUTING.md* which is a guide on how to commit your changes according to their guidelines.
+
 
 **Sources**
 * [1] https://pdfs.semanticscholar.org/98a6/c566a7e28a48facb664c8689607a52c57a5d.pdf
