@@ -7,19 +7,31 @@ In this document we will first outline how most open source projects are structu
 "What motivates an individual to devote their efforts to the development of free software?" is a question i often see arund the WWW. It is puzzling to see a proffessional developer spend their free time doing "work" without monetary compensation. Understanding the motivation that lies behind these individuals is a key step to understanding how the F/OSS model has managed to succeed.
 
 
-**What is motivation**
+**What is motivation**    
 The topic of human motivation is divided into two types those that are intrinsic (activity valued for its own sake) and extrinsic (indirectly being rewarded for doing the task at hand) [16].
 
-**Intrinsic Motivation**
+**Intrinsic Motivation**    
 Quoting Ryan and Deci in [16] *"Intrinsic motivation is defined as the doing of an activity for its inherent satisfactions rather than for some separable consequence. When intrinsically motivated, a person is moved to act for the fun or challenge entailed rather than because of external prods, pressures, or rewards".* A central part of intrinsic motivation is the human need for competence and self-determination. Intrinsic motivation is usually divided into two categories: enjoyment-based and obligation/community-based.
 
-**Enjoyment based intrinsic motivation**
-Enjoying an activity is the core concept of intrinsic motivation [16]. Mihali Csikszentmihalyi in his book "flow" emphasized that certain activities were pursued for the sake of the enjoyment derived from carrying them out. He suggested a state called "flow" where enjoyment was maximized, characterized by intese focus and concentration. 
+**Enjoyment based motivations**    
+Enjoying an activity is the core concept of intrinsic motivation [16]. Mihaly Csikszentmihalyi in his book "flow" emphasized that certain activities were pursued for the sake of the enjoyment derived from carrying them out. He suggested a state called "flow" where enjoyment was maximized, characterized by intese focus and concentration;a merge between action and awareness; confidence in one's ability; the enjoyment of an activity itself regardless of outcome [17]. Flow states occur when the skill of a person matches the difficulty of a task. There exists a zone where the optimal flow is achieved. A task that is beyond that of a person's skill will provoke anxiety, and a task below the skill level will induce boredom [17].
 
-**Extrinsic Motivation**
+*Popular accounts of programming in general and participation  in F/OSS projects in particular attest to the flow
+state achieved while by people engaged in writing software. Thus F/OSS participants may be
+seeking flow states by selecting projects that match their skill levels with task difficulty, a choice
+that may not be available in their regular jobs* [2].
 
+**Obligation/community based motivations**    
+in [18] a case is madw where acting on the basis of principle is a form of intrinsic motivation. it is proposed that individuals can be socialized into acting appropriately, and in a consistent matter to the group. It is also suggested that both intrinsic and extrinsic motivations can exist at the same time, this a person that values money, but also having fun may seek out projects that balance economic and the sense of fun [2].
 
-**Motivation in an open source context**
+This is especially interesting because we see a strong sense of community and identification in F/OSS projects, and also adherance to the rules and structures of a community [2].
+
+**Extrinsic Motivation**    
+Extrinsic motivation is a theory that has been mostly developed by economists. *“The economic model of human behavior is based on incentives applied from outside the person considered: people change their actions because they are induced to do so by an external intervention. Economic theory thus takes extrinsic motivation to be relevant for behavior”* [19]. Extrinsic motivation is in its most basic form, motivation that is affected by external factors, and not internal like intrinsic motivation [2].
+
+**Motivation in an open source context**    
+Both of these motivational forms have som effect on the open source community. When they are looked at separately the larger our degree of motivation, the more effort we will use on a task [20]. There is no saying one is more effective than the other, and on the contrary, when they are combined they do not work together. There are situations where they do not work together, and too much of one motivational form might actually cause the total effort to decline [20]. 
+
 **Communities**   
 Like every type of project, be it software, hardware, or anything really, a place to gather all contributions is essential. Be it a lab for hardware, or a garage for cars. In the case of software it is almost always hosted on some kind of web platform. You also need some kind of way to document what has been done so that it can be used later on, either for proof/leverage, or as learning material for later projects. In the case of software this is present in the for of "versioning systems" [4]. These systems track changes in the form of: who did them, what was done and when it was done.
 
@@ -86,3 +98,8 @@ Some programmers will choose to look at open source projects from an economical 
 * [14] https://pdfs.semanticscholar.org/953d/9faa84cca23a9f3bc07d23eaba83acdb25fa.pdf
 * [15] http://www.nber.org/papers/w7600.pdf
 * [16] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=443040
+* [17] https://www.akademika.no/flow/mihaly-csikszentmihalyi/9780712657594
+* [18] https://www.semanticscholar.org/paper/Intrinsic-Motivation-in-a-New-Light-Lindenberg-Lindenberg/a7254b82f63b6a9a05e4e9c19bfa487650e55d15
+* [19] Frey, Bruno. 1997. Not just for the money: an economic theory of personal motivation.
+Brookfield. VT: Edward Elgar Publishing Company.
+* [20] https://afcpe.org/assets/pdf/vol111b2.pdf
